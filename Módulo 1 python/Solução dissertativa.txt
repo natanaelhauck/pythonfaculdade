@@ -1,0 +1,4 @@
+1: Leia e armazene o número n que será multiplicado por 9 #entrada
+2: Subtrair n-1 e armazenar como primeiro dígito n1 #processamento
+3: Subtrair 10-n e armazenar como segundo dígito n2 #processamento
+4: Apresente n1 e n2 e encerre o programa #saída
